@@ -1,6 +1,6 @@
 # Privacy Policy
 
-`Purpose` This a template for creating privacy policies for Australian organisations.
+`Purpose` This a template for creating privacy policies for Australian organisations. Edit.
 
 `Party 1 Name` Provider
 
