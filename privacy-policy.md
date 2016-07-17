@@ -23,7 +23,8 @@ Provider may collect the following types of Personal Information about Individua
 {{information types}}
 
 ## Sensitive information
-Certain kinds of sensitive information needs mroe care than normal personal information. Check if any of the categories of sensitive information apply. If they don't, this topic can be removed.
+
+Certain kinds of sensitive information need more care than normal personal information. Check if any of the categories of sensitive information apply. If they don't, this topic can be removed.
 
 ### The types of sensitive information Provider collects.
 
