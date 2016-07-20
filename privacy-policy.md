@@ -130,7 +130,7 @@ It's a good idea to explain to people that you're aware of the possibility, and 
 
 ### Personal Information that Provider collects unknowingly.
 
-Provider acknowledges that from time to time, Provider may come into possession of Personal Information without being aware of it, for example, other organisations using Provider's service to store data.
+Provider acknowledges that from time to time, Provider may come into possession of Personal Information without being aware of it, for example, from other organisations using Provider's service to store data.
 
 Provider will make a good faith effort to deal with such Personal Information in accordance with this privacy policy and the principles in the Privacy Act.
 
