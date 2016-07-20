@@ -94,7 +94,7 @@ Provider will make a good faith effort to ensure that overseas recipients deal w
 
 ## Privacy contact
 
-There needs to be a way for Individuals to get in touch with the Provider about privacy issues (including complaints).  For small organisations, it's probably easiest to just use your routine public contact details to file complaints about privacy.
+There needs to be a way for Individuals to get in touch with the Provider about privacy issues (including complaints).  Small organizations can use their public contact details for fielding privacy complaints.
 
 Larger organisations may wish to nominate a privacy officer to deal with privacy related complaints. A privacy officer is an individual within your organisation that is responsible for dealing with privacy issues.
 
