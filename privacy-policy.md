@@ -124,9 +124,9 @@ Under privacy law, Individuals have the right to contact the Provider to modify 
 
 ## Unknowingly collected information
 
-It's possible that Provider ends up collecting certain Personal Information without being aware of it. For example, if your organisation is a data backup service, Organisations may use the Service to back up the information of Individuals that the Organisation collects at first instance.
+It's possible that Provider ends up collecting certain Personal Information without being aware of it. For example, if you run a data backup service for a large company, you might end up copying their employees' personal emails by accident.
 
-It's a good idea to explain to people that you're aware of the possibility, and are making a good faith effort to handle it.
+You should let people know you're aware of this possibility, and that you will make a good faith effort to deal with it responsibly.
 
 ### Personal Information that Provider collects unknowingly.
 
