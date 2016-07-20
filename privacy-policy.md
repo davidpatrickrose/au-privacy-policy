@@ -56,7 +56,7 @@ Provider ensures that Personal Information is protected from unauthorised access
 
 ## Deletion of Personal Information
 
-It's a good idea to a have a policy for deleting Personal Information that is no longer needed. Use this topic if you have a 
+It's a good idea to a have a policy for deleting Personal Information that is no longer needed.  
 
 ### When Personal Information is deleted.
 
@@ -68,7 +68,7 @@ Provider deletes Personal Information when:
 
 ### What the Provider uses Personal Information for.
 
-Provider may collect, use, hold and disclose Personal Information in order to:
+Provider may collect, use, hold and disclose Personal Information in order:
 
 {{information uses}}
 
