@@ -56,7 +56,7 @@ Provider ensures that Personal Information is protected from unauthorised access
 
 ## Deletion of Personal Information
 
-It's a good idea to a have a policy for deleting Personal Information that is no longer needed. Use this topic if you have a 
+It's a good idea to a have a policy for deleting Personal Information that is no longer needed.  
 
 ### When Personal Information is deleted.
 
